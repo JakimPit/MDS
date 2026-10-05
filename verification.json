@@ -1,0 +1,56 @@
+{
+  "verified_on": "2026-10-05",
+  "python": "3.12.14",
+  "results": [
+    {
+      "notebook": "HW_1_upd.ipynb",
+      "status": "passed",
+      "seconds": 4.88
+    },
+    {
+      "notebook": "HW_2_upd.ipynb",
+      "status": "passed",
+      "seconds": 2.64
+    },
+    {
+      "notebook": "HW_3_upd.ipynb",
+      "status": "passed",
+      "seconds": 7.44
+    },
+    {
+      "notebook": "HW_4_upd.ipynb",
+      "status": "passed",
+      "seconds": 6.48
+    },
+    {
+      "notebook": "HW_5_upd.ipynb",
+      "status": "passed",
+      "seconds": 5.75
+    },
+    {
+      "notebook": "HW_6_upd.ipynb",
+      "status": "passed",
+      "seconds": 18.83
+    },
+    {
+      "notebook": "HW_7_upd.ipynb",
+      "status": "passed",
+      "seconds": 19.19
+    },
+    {
+      "notebook": "HW_8_upd.ipynb",
+      "status": "passed",
+      "seconds": 10.47
+    },
+    {
+      "notebook": "HW_9_upd.ipynb",
+      "status": "passed",
+      "seconds": 7.8
+    },
+    {
+      "notebook": "HW_X_upd.ipynb",
+      "status": "passed",
+      "seconds": 10.91
+    }
+  ]
+}
